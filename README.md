@@ -17,7 +17,7 @@ I love diving into the internals of operating systems, compilers, and networking
 
 ![Dino](dino_dark.gif)
 
-<h3>📫 Get in touch</h3>
+<h3>Get in touch</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gravesth)
 
